@@ -1,5 +1,5 @@
 class Simple {
       public static void main(String args[]){
-	      System.out.println("Explain Rebase and cherrypick with example");
+	      System.out.println("Explain git Rebase and cherrypick with example");
       }
 }
